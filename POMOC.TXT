@@ -1,0 +1,66 @@
+
+MEMORY BLOCKS freeware
+
+GRUDZIE„ 1999r.
+
+Autor : Przemysàaw Sobstel (kl.IIIg)
+
+1.Wymagania
+2.Opis opcji
+3.Zasady gry
+4.Cel gry
+
+1. WYMAGANIA
+
+   Z reguày powinno chodziÜ na kaædym sprz©cie.
+   (test¢w nie przeprowadzano, na pewno chodzi na
+    486DX2-50Mhz,8MBRAM,SVGA)
+   Poza tym przydaàaby si© karta grafiki obsàuguj•ca :
+   - 256 kolor¢w w trybie 320x200, np.SVGA(512K VGA)
+   - 16 kolor¢w w trybie 640x480, np.VGA.
+   Przypadk¢w nie posiadania takowej karty nie sprawdzano.
+
+2. OPIS OPCJI
+
+   Po uruchomieniu gry ukazuje si© intro. Po wciòni©ciu dowolnego
+   klawisza zostaj• wczytane dane potrzebne do poprawnego dziaàania
+   programu, a nast©pnie ukazuje si© ekran gà¢wny.
+
+   Na ekranie gà¢wnym mamy do wyboru
+   - NOWA GRA (F1)
+      Rozpocz©cie nowej gry (bez zachowywania poprzedniej!!).
+   - NAJLEPSI (F2)
+      Lista najlepszych graczy (pod wzgl©dem szybkoòci i
+      najmniejszej iloòci odkrytych par).
+   - OPCJE (F3)
+      Wyboru dokonuje si© poprzez najechanie na nazw© danej opcji i
+      klikni©cie lewym przyciskiem myszki (sterowanie) lub poprzez
+      klikni©cie lewym przyciskiem myszki na jednej ze "strzaàek"
+      (wygl•d tylnej cz©òci kwadracik¢w).
+      Do wyboru :
+      - rodzaju sterowania gr• (tylko myszka lub myszka+klawiatura)
+      - koloru i stylu wypeàniania tylnej cz©òci kwadracik¢w
+   - POMOC (F4)
+      Kr¢tka pomoc dotycz•ca gry.
+   - WYJóèIE  (F5 lub ESC)
+      Opuszczenie programu (bez ostrzeænia).
+
+   Wyboru dokonujemy poprzez klikni©cie lewego przycisku myszki na
+   porz•danej opcji lub poprzez naciòni©cie odpowiedniego klawisza
+   funkcyjnego (patrz powyæej: w nawiasach koào opcji).
+
+3. ZASADY GRY
+
+   Gra si© poprzez odkrywanie kwadrat¢w (lewym przyciskiem myszki
+   lub przez naciòni©cie odpowiedniego klawisza z klawiatury - od
+   A do R - w przypadku wà•czonej opcji STEROWANIE-KLAWIATURA I
+   MYSZ) i dopasowywanie ich parami. Zadanie jest o tyle utrudnione,
+   æe w danym momencie mog• byÜ odkryte co najwyæej tylko 2 kwadraty.
+
+4. CEL GRY
+
+   Celem gry jest jak najszybsze lub w jak najmniejszej iloòci
+   ruch¢w odkrycie wszystkich par znajduj•cych si© na planszy.
+
+
+Miàej zabawy æyczy autor.
